@@ -7,7 +7,7 @@
 }
 
 .banner .overlay {
-  padding: 145px 0px 25px 0;
+  padding: 145px 0px 8px 0;
   background: linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0.5));
 }
 
@@ -18,6 +18,8 @@
 }
 
 .banner h1 {
+  margin-bottom: 32px;
+  margin-top: 16px;
   text-shadow: 0 0 8px white;
   font-size: 36px;
 }

@@ -14,12 +14,13 @@
 .card h3 {
   text-align: center;
   font-weight: normal;
-  font-size: 24px;
+  font-size: 20px;
   margin-bottom: 24px;
 }
 
 .card ul {
   list-style: none;
+  padding: 0 16px;
 }
 
 .card li {
